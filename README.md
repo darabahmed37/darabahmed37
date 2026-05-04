@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-darabahmed37.github.io-c778dd?style=for-the-badge&logo=firefox&logoColor=white)](https://darabahmed37.github.io/darab-portfolio)
 [![Email](https://img.shields.io/badge/Email-darabahmed37@gmail.com-c778dd?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=darabahmed37@gmail.com&su=Engineering%20Opportunity%20%E2%80%94%20Darab%20Ahmed&body=Hi%20Darab%2C%0A%0AI%20came%20across%20your%20GitHub%20and%20wanted%20to%20reach%20out.%0A%0ALooking%20forward%20to%20connecting.)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darabahmed37)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darab-ahmed/)
 
 </div>
 
@@ -103,15 +103,26 @@ I've worked on real fintech infrastructure: atomic payment transaction flows, id
 
 ---
 
+
 ## GitHub Stats
 
 <div align="center">
 
-![Darab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darabahmed37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1d23&title_color=c778dd&icon_color=a78bfa&text_color=abb2bf)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=darabahmed37&show_icons=true&hide_border=true&bg_color=1a1d23&title_color=c778dd&icon_color=a78bfa&text_color=abb2bf&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darabahmed37&layout=compact&hide_border=true&bg_color=1a1d23&title_color=c778dd&text_color=abb2bf&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darabahmed37&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1d23&title_color=c778dd&text_color=abb2bf)
+<img src="https://streak-stats.demolab.com/?user=darabahmed37&hide_border=true&background=1a1d23&stroke=c778dd&ring=a78bfa&fire=f59e0b&currStreakLabel=c778dd&sideLabels=abb2bf&dates=6b7280&sideNums=e2e8f0&currStreakNum=e2e8f0" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
